@@ -1,0 +1,11 @@
+*.FCStd1
+*.FCBak
+*.bin
+*.blend1
+/Assets/*.blend1
+/Assets/assets/*.blender1
+*.gltf
+*.kra~
+/Img
+/HopDong
+
